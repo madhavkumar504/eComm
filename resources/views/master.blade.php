@@ -29,5 +29,21 @@
             height:800px;
             padding-top:100px;
         }
+        .custome-product{
+            height:820px;
+        }
+        .carousel-caption{
+            background-color:#0508073b;
+        }
+        .tranding-products{
+            margin:20px;
+        }
+        .trending-item{
+            float: left;
+            width: 20%;
+        }
+        .search-bar{
+            width:;
+        }
     </style>
 </html>
