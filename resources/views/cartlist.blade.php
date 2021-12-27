@@ -2,6 +2,7 @@
 @section('content')
 <div class="container" >
     <h1>Cart List</h1>
+    <a href="/ordernow" class="btn btn-success">Order Now</a>
     <div class=" d-flex">
         @foreach($products as $product)
         <div class="p-4">

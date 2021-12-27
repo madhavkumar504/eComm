@@ -17,7 +17,7 @@ if(Session::has('user')){
           <a class="nav-link" href="javascript:void(0)">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="javascript:void(0)">Orders</a>
+          <a class="nav-link" href="myorder">Orders</a>
         </li>
         <form class="d-flex  w-50" action="/search">
           <input class="form-control" type="text" name="query" placeholder="Search">
